@@ -1,4 +1,4 @@
-# Java / SpringBoot NoteBook Server Projet
+# Java / SpringBoot NoteBook Server Project
 software used: 
 - IDE: IntelliJ IDEA
 - [Postman](https://www.getpostman.com/) Platforme to perform requests
