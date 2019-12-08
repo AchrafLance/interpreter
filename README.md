@@ -9,9 +9,10 @@ Sample Input:
 ![input](https://github.com/AchrafLance/interpreter/blob/master/sample_input.png)
 
 Sample Output:
+--
 ![output](https://github.com/AchrafLance/interpreter/blob/master/sample_output.png)
 
---
+
 
 >**Task1**: 
 used spring web dependency to setup my spring boot environment
