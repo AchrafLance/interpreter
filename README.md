@@ -1,5 +1,5 @@
 # Java / SpringBoot NoteBook Server Projet
-software i used: 
+software used: 
 - IDE: IntelliJ IDEA
 - [Postman](https://www.getpostman.com/) Platforme to perform requests
 - [Jython](https://www.jython.org/download.html) standalone API as a python interpreter
