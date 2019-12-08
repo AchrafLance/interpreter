@@ -29,5 +29,5 @@ used Jython interpreter to execute the parsed JSON entry and an outputStream to 
 just made sure only one instance of the python interpreter is handling all the subsequente requests 
 
 >**Challenge2**: 
-created a hashmap that stores an instance of the python interpreter and a sessionID, so each 
-request either create a new python interpreter instance ( if the sessionID is new ) or call an existing one.
+created a hashmap that stores an instance of the python interpreter and a sessionID, so that each 
+request either creates a new python interpreter instance ( if the sessionID is new ) or call an existing one.
