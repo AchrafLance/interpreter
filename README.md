@@ -4,7 +4,9 @@ software used:
 - [Postman](https://www.getpostman.com/) Platforme to perform requests
 - [Jython](https://www.jython.org/download.html) standalone API as a python interpreter
 
-!! Download Jython standalone .jar file from [here](https://www.jython.org/download.html) and add it to your IDE libraries. 
+**Prerequisite:**
+--
+ - Download Jython standalone .jar file from [here](https://www.jython.org/download.html) and add it to your IDE libraries.
 
 Sample Input: 
 --
